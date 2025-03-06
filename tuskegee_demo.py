@@ -1,6 +1,5 @@
 import os
 import streamlit as st
-from dotenv import load_dotenv
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from langchain_groq import ChatGroq
@@ -8,7 +7,6 @@ import time
 import base64
 
 # Load environment variables
-load_dotenv()
 
 # Access the Groq API key
 groq_api_key = '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'
