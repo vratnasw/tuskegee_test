@@ -91,7 +91,7 @@ st.set_page_config(
 #st.title("Groq-Powered Chatbot with Streaming Responses")
 
 # Add a centered logo at the top of the app, shifted to the left
-logo_path = r"C:\Users\visha\Downloads\tuskegee_logo.png"  # Corrected file path
+logo_path = "tuskegee_logo.png"  # Corrected file path
 if os.path.exists(logo_path):
     try:
         with open(logo_path, "rb") as image_file:
