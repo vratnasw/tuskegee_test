@@ -1,0 +1,103 @@
+the following zoning codes are listed:
+
+R1: Low Density Residential District
+R2: Medium Density Residential District
+R3: Medium Density Residential District
+R4: High Density Residential District
+I: Institutional District
+B1: Central Business District
+B2: Neighborhood Business District
+B3: Highway Business District
+M1: Light Industrial District
+M2: General Industrial District
+These codes represent different zoning districts with varying regulations regarding permitted structures and uses, lot sizes, setbacks, building heights, and other requirements. The R districts are for residential use with increasing density from R1 to R4. The B districts are for business/commercial use, and the M districts are for industrial use. The I district is specifically for institutional uses like schools and hospitals.
+
+Based on the information provided in the zoning ordinance for the City of Tuskegee, the requirements and restrictions for the R1 (Low Density Residential District) are as follows:
+
+Requirements:
+1. Minimum Lot Size: 12,000 square feet
+2. Minimum Lot Width: 100 feet
+3. Front Yard Setback: 35 feet
+4. Rear Yard Setback: 
+   - Main Structure: 25 feet
+   - Accessory Structure: 10 feet
+5. Side Yard Setback: 
+   - 10 feet
+   - On corner lots: 20 feet
+6. Maximum Building Height: 35 feet
+
+Permitted Structures or Uses:
+1. Single-Family Dwelling
+2. Home Instruction
+3. Home Occupation
+
+Permitted by Special Exception:
+1. Accessory Dwelling
+2. Community Center
+3. Day Care Home
+4. Place of Worship
+5. Public Utility Facility
+6. Tourist or Bed and Breakfast Inn
+
+Permitted Upon Condition:
+1. School
+
+Not Permitted:
+The ordinance lists numerous structures and uses that are not permitted in the R1 district, including but not limited to:
+- Multi-family dwellings (Patio Home, Duplex, Townhouse, Multiplex, Apartments, etc.)
+- Various types of care facilities (except those specifically permitted)
+- Commercial and business uses
+- Industrial uses
+- Recreational facilities
+- Educational institutions (except schools permitted upon condition)
+- Agricultural uses beyond typical residential gardening
+
+These regulations are designed to maintain the low-density residential character of the R1 district, allowing primarily for single-family homes with some limited additional uses. The setbacks, lot size, and width requirements help ensure adequate spacing between homes and maintain the residential nature of the area.
+
+Based on the information provided in the zoning ordinance for the City of Tuskegee, the requirements for the R2 (Medium Density Residential District) are as follows:
+
+1. Minimum Lot Size: 
+   - 8,500 square feet for the first unit
+   - Plus 2,000 square feet for each additional unit
+
+2. Minimum Lot Width: 
+   - 75 feet for the first two units
+
+3. Front Yard Setback: 35 feet
+
+4. Rear Yard Setback:
+   - Main Structure: 20 feet
+   - Accessory Structure: 10 feet
+
+5. Side Yard Setback: 
+   - 10 feet
+   - On corner lots: 20 feet
+
+6. Maximum Building Height: 35 feet
+
+These requirements are designed to allow for slightly higher density residential development compared to the R1 district, while still maintaining a primarily residential character. The setbacks and lot size requirements help ensure adequate spacing between dwellings and maintain the residential nature of the area. The regulations permit single-family dwellings and duplexes, as well as some conditional and special exception uses like day care homes and schools.
+
+
+Based on the information provided in the zoning ordinance for the City of Tuskegee, the requirements for the B1 (Central Business District) are as follows:
+
+1. Minimum Lot Size: 
+   - Must be of sufficient size to provide adequate space required for normal operation of uses permitted.
+
+2. Minimum Lot Width:
+   - Must be of sufficient size to provide adequate space required for normal operation of uses permitted.
+
+3. Front Yard Setback: 
+   - 0 feet (The property line is the required build-to line)
+
+4. Rear Yard Setback: 
+   - 20 feet
+
+5. Side Yard Setback: 
+   - 0 feet (The property line is the required build-to line)
+
+6. Maximum Building Height: 
+   - 45 feet
+
+These requirements are designed to allow for a dense, mixed-use commercial area in the city center. The lack of front and side yard setbacks allows buildings to be constructed right up to the property line, creating a more urban environment. The taller building height allowance accommodates multi-story buildings with possible residential or office uses above ground-floor commercial spaces.
+
+The regulations permit a wide variety of commercial uses, offices, and some residential uses like upper story apartments. However, single-family dwellings and some other residential types are not permitted in this district. This zoning designation aims to create a vibrant downtown area with a mix of business, retail, and some residential uses.

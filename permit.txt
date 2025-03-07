@@ -1,0 +1,32 @@
+Geographical Coordinates :
+
+The permit is based on the following information:
+
+Latitude and longitude coordinates are provided (e.g., N 33°41'16" E, S 103°14'49" E).
+Curves and Radii :
+Information about curves, such as radius, length, chord, and bearing, is included (e.g., C1: 327.37', 84.79', 84.56', S 74°45" W).
+Land Area :
+The total land area is specified (e.g., 0.41 acres).
+Legal Description :
+A legal description of the property is provided, including lot, block, unit, subdivision, and parcel information.
+Zoning Information :
+Zoning details are mentioned (e.g., R-4).
+Specific Details:
+Property Address : 2101 Verbena St, Atlanta, GA 30314.
+County : Fulton County, Georgia.
+Field Date : 03-24-2022.
+Drawing Date : 03-25-2022.
+Surveyor : Survey Systems Atlanta.
+
+Frontage on Verbena Street :
+The front of the property along Verbena Street is approximately 100 feet long.
+Depth from Verbena Street :
+The depth of the property from Verbena Street varies but can be estimated based on the perpendicular lines drawn from the street to the back boundary.
+For example, one section shows a distance of about 84.56 feet from the street to the back boundary.
+The frontage on Verbena Street is about 100 feet.
+The depth from the street to the back boundary is approximately 84.56 feet in one section.
+The curved boundary (C1) has a radius of 327.37 feet, affecting the distance at various points.
+Side setbacks and buffer zones also play a role in determining the usable distance to the street.
+
+Utility Easements :
+There are several areas on the map where utility easements are indicated. For example, there is a label "UTILITY EASEMENT" near the top right corner of the property, which suggests that utilities (such as water, sewer, or power) have the right to access this area.
