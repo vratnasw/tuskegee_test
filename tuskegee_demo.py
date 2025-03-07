@@ -14,7 +14,7 @@ import re  # Import the regular expression module
 groq_api_key = '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'
 
 try:
-    with open(R"C:\Users\visha\Downloads\zoning_context.txt", "r") as f:
+    with open("zoning_context.txt", "r") as f:
         zoning_context = f.read()
 except FileNotFoundError:
     st.error("Error: zoning_context.txt not found. Please create the file and put the zoning information inside.")
@@ -25,7 +25,7 @@ except Exception as e:
 
 
 try:
-    with open(R"C:\Users\visha\Downloads\permit.txt", "r") as f:
+    with open("permit.txt", "r") as f:
         permits = f.read()
 except FileNotFoundError:
     st.error("Error: zoning_context.txt not found. Please create the file and put the zoning information inside.")
@@ -36,7 +36,7 @@ except Exception as e:
 
 
 try:
-    with open(R"C:\Users\visha\Downloads\permit.txt", "r") as f:
+    with open("permit.txt", "r") as f:
         permits = f.read()
 except FileNotFoundError:
     st.error("Error: zoning_context.txt not found. Please create the file and put the zoning information inside.")
@@ -46,7 +46,7 @@ except Exception as e:
     st.stop()
 
 try:
-    with open(R"C:\Users\visha\Downloads\infrastructure.txt", "r") as f:
+    with open("infrastructure.txt", "r") as f:
         grants = f.read()
 except FileNotFoundError:
     st.error("Error: zoning_context.txt not found. Please create the file and put the zoning information inside.")
